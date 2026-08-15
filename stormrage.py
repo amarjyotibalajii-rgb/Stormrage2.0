@@ -45,7 +45,7 @@ def main():
     # Show the updated banner with your message
     print(f"\033[93m=== StormRage - Educational DDoS Tool ===")  # Yellow color for the intro
     print(f"\033[93m⚠️ Use for testing on your own systems only!\n")  # Yellow color for the disclaimer
-    print(f"\033[93m---Created by Alok Thakur---\nSubscribe to channel--- Firewall Breaker")  # Yellow color for your message
+    print(f"\033[93m---Created by Luck malik---\nSubscribe to channel--- Firewall Breaker")  # Yellow color for your message
 
     mode = input(f"\033[96mAttack mode (tcp/https): ").lower()  # Cyan color for user input prompt
 
